@@ -1,4 +1,5 @@
 👋 Hi, I’m @ClaudiaBruno
+
 As a pharmacoepidemiologist, I use population-based data to examine the quality use of psychotropic medicines among priority populations. My research aims to promote best-practice healthcare through public health policy and clinical practice changes.  
 
 I am an early career researcher with the Medicines Intelligence (MedIntel) Research Program at the School of Population Health. Throughout my career, I have conducted extensive analyses of linked health data on both national and international levels. Notably, I participated in a multinational collaboration with the Nordic countries, during an eight-month placement at the Norwegian Public Health Institute in Oslo. This partnership enabled knowledge exchange and provided valuable insights into the safety of medicines in pregnancy and the analysis of multinational data. 
